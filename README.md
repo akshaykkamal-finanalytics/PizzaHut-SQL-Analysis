@@ -1,6 +1,6 @@
-# 🍕 Pizza Hut Sales Analysis — MySQL
+# Pizza Hut Sales Analysis — MySQL
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes Pizza Hut sales data using **MySQL** to understand sales performance, customer ordering patterns, product performance, revenue contribution, and sales trends.
 
@@ -19,7 +19,7 @@ The project is designed as a **SQL data analytics portfolio project**, demonstra
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 The primary objectives of this project are to:
 
@@ -33,15 +33,6 @@ The primary objectives of this project are to:
 8. Analyze cumulative revenue over time.
 9. Identify the top 3 revenue-generating pizzas within each category.
 10. Analyze month-over-month revenue growth or contraction.
-
----
-
-## 🛠️ Tools & Technologies
-
-- **MySQL**
-- **MySQL Workbench**
-- SQL
-- CSV data files
 
 ---
 
@@ -98,7 +89,7 @@ This project demonstrates the following SQL concepts:
 
 ---
 
-# 🔍 Business Questions
+# Business Questions
 
 1. What is the total number of orders?
 2. What is the total revenue generated?
@@ -116,7 +107,7 @@ This project demonstrates the following SQL concepts:
 
 ---
 
-# 📈 Key Analytical Areas
+# Key Analytical Areas
 
 The project covers five major analytical dimensions:
 
@@ -130,7 +121,7 @@ The project covers five major analytical dimensions:
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 This project demonstrates practical experience with:
 
@@ -151,7 +142,7 @@ This project demonstrates practical experience with:
 
 ---
 
-# 💡 Business Value
+# Business Value
 
 This project can help a restaurant business understand:
 
@@ -165,30 +156,11 @@ This project can help a restaurant business understand:
 
 ---
 
-# 👨‍💻 About the Project
+# About the Project
 
 This project was created as part of a practical SQL and Data Analytics portfolio to demonstrate the application of MySQL to real-world business data.
 
 **Focus:** SQL | Data Analytics | Business Intelligence | Sales Analysis
-
----
-
-## 📌 Future Improvements
-
-Potential extensions to the project include:
-
-- Creating a Power BI dashboard using the MySQL database
-- Adding customer-level analysis
-- Calculating Average Order Value (AOV)
-- Analyzing weekday vs. weekend performance
-- Identifying seasonal trends
-- Creating stored procedures
-- Adding indexes for query optimization
-- Building automated reporting
-- Connecting MySQL directly to Power BI
-
----
-
 ## ⭐ Project Takeaway
 
 This project demonstrates how relational sales data can be transformed into **business-focused insights using MySQL**.
